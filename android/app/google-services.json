@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335581703699",
+    "project_id": "pc-recommendation",
+    "storage_bucket": "pc-recommendation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335581703699:android:f3ab6d092e69034a6f59e6",
+        "android_client_info": {
+          "package_name": "com.asaad_sharaby.pc_recommendation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj-mdudnbdsRN3eAeY3CzkuVbaTIHeh9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
